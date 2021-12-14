@@ -1,31 +1,31 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ZEEONE OFC
+return `PAYMENT BY ANDI GANZ
 
 *🏧 BANK*
 
 1. BRI 
-	ㅁ 8881 0887 4350 47326
+	ㅁ gak tau :v
 2. BCA 
-	ㅁ 3901 0887 4350 47326
+	ㅁ gak tau :v
 3. BNI 
-	ㅁ 881 0887 4350 47326
+	ㅁ gak tau :v
 4. PERMATA
-	ㅁ 852 8887 4350 47326
+	ㅁ gak tau :v
 	
 *💰 E-MONEY*
 
 1. GOPAY
-	ㅁ 0887 4350 47326
+	ㅁ -
 2. OVO
-	ㅁ 0887 4350 47326
+	ㅁ -
 3. DANA
-	ㅁ 0887 4350 47326
+	ㅁ 0856 4311 5199
 	
-Semuanya atas nama RI****DI
+Semuanya atas nama ANDI
 
 *📲 PULSA*
 
-Tidak tersedia
+085643115199
 	
 Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
 `

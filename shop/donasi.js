@@ -1,28 +1,25 @@
 const donasibot = () => {
-return `DONASI BISA VIA BANK / E-MONEY
-
+return `DONASI BISA VIA PULSA / DANA
 *🏧 BANK*
-
 1. BRI 
-	ㅁ 8881 0887 4350 47326
+	ㅁ gak tau :v
 2. BCA 
-	ㅁ 3901 0887 4350 47326
+	ㅁ gak tau :v
 3. BNI 
-	ㅁ 881 0887 4350 47326
+	ㅁ gak tau :v
 4. PERMATA
-	ㅁ 852 8887 4350 47326
+	ㅁ gak tau :v
 	
 *💰 E-MONEY*
-
 1. GOPAY
-	ㅁ 0887 4350 47326
+	ㅁ gak tau :v
 2. OVO
-	ㅁ 0887 4350 47326
+	ㅁ gak tau :v
 3. DANA
-	ㅁ 0887 4350 47326
+	ㅁ 0856 4311 5199
 	
-Semuanya atas nama RI****DI
-`
+SEMUA ITU ATAS NAMA ANDI
+*PULSA* : 085643115199`
 	}
 
 exports.donasibot = donasibot
