@@ -1,5 +1,5 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ANDI GANZ
+return `PAYMENT BY RIMU GANZ
 
 *🏧 BANK*
 
@@ -19,13 +19,13 @@ return `PAYMENT BY ANDI GANZ
 2. OVO
 	ㅁ -
 3. DANA
-	ㅁ 0856 4311 5199
+	ㅁ 0851 5654 5832
 	
-Semuanya atas nama ANDI
+Semuanya atas nama RIMU
 
 *📲 PULSA*
 
-085643115199
+085156545832
 	
 Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
 `

@@ -11,7 +11,8 @@ return `「 *PRICE LIST* 」
 ⬣ PRICE JADIBOT
 ⬡ JADI BOT PERMANEN 10K
 ⬣ MINAT? PM
-⬡ wa.me/6285643115199
+⬡ wa.me/6285643115199 x
+⬡ wa.me/62895320009580 ✓
 NOTE : 
 Bot On 24 Jam Karna Di Run Menggunakan Heroku
 Reset Data Setiap Jam 02:00 `
